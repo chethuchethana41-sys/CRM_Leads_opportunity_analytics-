@@ -78,29 +78,29 @@ CRM-Sales-Analytics-PowerBI
 │
 ├── Dataset
 
-│   └── CRM_Data.xlsx
+│       └── CRM_Data.xlsx
 
 │
 ├── SQL
 
-│   └── CRM_queries.sql
+│       └── CRM_queries.sql
 
 │
 ├── Python
 
-│   └── data_cleaning.ipynb
+│       └── data_cleaning.ipynb
 
 │
 ├── Dashboard
 
-│   └── CRM_Analytics_Dashboard.pbix
+│       └── CRM_Analytics_Dashboard.pbix
 
 │
 ├── Images
 
-│   ├── opportunity_dashboard.png
+│       ├── opportunity_dashboard.png
 
-│   └── leads_dashboard.png
+│       └── leads_dashboard.png
 
 │
 └── README.md
