@@ -22,10 +22,12 @@ A data analytics project focused on identifying where sales are lost in the funn
 
 ---
 
+
 ## 📸 Dashboard
 
-![Dashboard 1](images/CRM Opportunity Dashboard.png)  
-![Dashboard 2](images/CRM leads Dashboard.png)
+![Opportunity Dashboard](images/crm_opportunity_dashboard.png)
+
+![Leads Dashboard](images/crm_leads_dashboard.png)
 
 ---
 
